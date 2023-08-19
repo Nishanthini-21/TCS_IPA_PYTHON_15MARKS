@@ -8,7 +8,7 @@ hello wordaeiou 123
 output:
 hll wrd 123 and count of digit is 3'''
 
-
+#solution
 input1=input()
 digit_count=0
 l=[]
