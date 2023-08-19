@@ -1,7 +1,8 @@
-'''Question1: Count the number of times, the given word is repeated in the user input strings(case insensitive)
-
+'''
+Question1: Count the number of times, the given word is repeated in the user input strings(case insensitive)
+----------------------------------------------
 sample input and output:
-
+----------------------------------------------
 input:
 3
 HELLO ANMOL
@@ -10,7 +11,8 @@ good morning
 hello
 
 output:
-count of given word:2'''
+count of given word:2
+'''
 
 #solution
 def function(l,string1):
