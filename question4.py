@@ -50,3 +50,9 @@ elif number_count>alpha_count:
 elif number_count<alpha_count:
     print(f"Alphabets:{alpha_count}")
     print(f"Numbers:{number_count}")
+
+
+
+
+
+
