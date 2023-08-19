@@ -1,4 +1,5 @@
-'''Question4: count the number of alphabets and the numbers and print the alphabets count first if it is higher than number count and viceversa
+'''
+Question4: count the number of alphabets and the numbers and print the alphabets count first if it is higher than number count and viceversa
 
 Sample input and output:
 --------------------
@@ -27,7 +28,9 @@ input4:
 
 output4:
 Numbers:4
---------------------'''
+--------------------
+'''
+
 #solution
 input1=input()
 alpha_count=0
