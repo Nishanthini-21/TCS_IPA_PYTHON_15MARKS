@@ -12,7 +12,7 @@ hello
 output:
 count of given word:2'''
 
-
+#solution
 def function(l,string1):
     count=0
     for v in l:
