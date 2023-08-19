@@ -1,14 +1,15 @@
-'''Question2: remove the "li" if present in each word of the string @last
-
+'''
+Question2: remove the "li" if present in each word of the string @last
+------------------------------------
 sample input output:
-
+------------------------------------
 input:
 Richard is now happyil and satisfiesdil with his situationil
 
 output:
 Richard is now happy and satisfiesd with his situation
 '''
-
+------------------------------------
 #solution
 input1=input()
 l=input1.split()
