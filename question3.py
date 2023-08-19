@@ -1,12 +1,15 @@
-'''Question3: To remove the vowels in the given string and also print the count of digits present in the string
-
+'''
+Question3: To remove the vowels in the given string and also print the count of digits present in the string
+--------------------------------
 sample input and output:
-
+--------------------------------
 input:
 hello wordaeiou 123
 
 output:
-hll wrd 123 and count of digit is 3'''
+hll wrd 123 and count of digit is 3
+--------------------------------
+'''
 
 #solution
 input1=input()
