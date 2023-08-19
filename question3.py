@@ -27,3 +27,7 @@ s=""
 for i in l:
     s+=i
 print(f"{s} and count of digit is {digit_count}")
+
+
+
+
